@@ -1,5 +1,5 @@
 # Hello World
 
 
-Welcome to your first Repo!
+Welcome to your first Repo :)
 
